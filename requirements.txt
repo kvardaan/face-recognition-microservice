@@ -3,3 +3,5 @@ fastapi
 pydantic
 starlette
 uvicorn
+tf-keras
+opencv-python
