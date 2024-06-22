@@ -50,7 +50,7 @@ python main.py
 
 ## API Endpoints
 
-- `POST /api/compare_images`:
+- `POST /api/v1/compare_images`:
 
 - Compares two images and returns a boolean indicating whether they belong to the same person.
 
