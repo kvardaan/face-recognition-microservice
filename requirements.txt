@@ -1,0 +1,5 @@
+deepface
+fastapi
+pydantic
+starlette
+uvicorn
